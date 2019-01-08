@@ -4,7 +4,6 @@ namespace App\Notifications;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Notifications\Notification;
-use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Notifications\Messages\MailMessage;
 use App\Http\Requests\ContactFormRequest;
 
@@ -23,7 +22,7 @@ class InboxMessage extends Notification
     /**
      * Get the notification's delivery channels.
      *
-     * @param  mixed  $notifiable
+     * @param  mixed $notifiable
      * @return array
      */
     public function via($notifiable)
@@ -34,23 +33,29 @@ class InboxMessage extends Notification
     /**
      * Get the mail representation of the notification.
      *
-     * @param  mixed  $notifiable
+     * @param  mixed $notifiable
      * @return \Illuminate\Notifications\Messages\MailMessage
      */
     public function toMail($notifiable)
     {
         return (new MailMessage)
-                    ->subject(config('admin.name') . ", you got a new message!")
-                    ->greeting(" ")
-                    ->salutation(" ")
-                    ->from($this->message->email, $this->message->name)
-					->line($this->message->message);
+            ->subject(config('admin.name') . ", you got a new message!")
+            ->greeting(" ")
+            ->salutation(" ")
+            ->from($this->message->email, $this->message->name)
+            ->markdown('mail.message.index', [
+                'name' => $this->message->name,
+                'email' => $this->message->email,
+                'phone' => $this->message->phone,
+                'subject' => $this->message->subject,
+                'message' => $this->message->message,
+            ]);
     }
 
     /**
      * Get the array representation of the notification.
      *
-     * @param  mixed  $notifiable
+     * @param  mixed $notifiable
      * @return array
      */
     public function toArray($notifiable)

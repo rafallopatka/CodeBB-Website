@@ -29,13 +29,7 @@
                         </li>
                         <li class="page-scroll">
                             <a href="#meetings">Najbliższe spotkanie</a>
-                        </li>
-                        {{-- <li class="page-scroll">
-                            <a href="#team">Rejestracja</a>
-                        </li> --}}
-                        {{-- <li class="page-scroll">
-                            <a href="#clients">Sponsorzy</a>
-                        </li>                     --}}
+                        </li>                 --}}
                         <li class="page-scroll">
                             <a href="#contact">Kontakt</a>
                         </li>

@@ -21,19 +21,16 @@
                             {{ csrf_field() }}
                             <div class="form-wrap">
                                 <div class="form-wrap-group">
-                                    <input type="text" placeholder="Imię / Nazwisko" class="form-control">
-                                    <input type="text" placeholder="Temat wiadomości"
-                                           class="border-top-transparent form-control">
+                                    <input type="text" placeholder="Imię / Nazwisko" class="form-control" id="name" name="name">
+                                    <input type="text" placeholder="Temat wiadomości" class="border-top-transparent form-control" id="subject" name="subject">
                                 </div>
                                 <div class="form-wrap-group border-left-transparent">
-                                    <input type="text" placeholder="E-mail" class="form-control">
-                                    <input type="text" placeholder="Telefon (opcjonalnie)"
-                                           class="border-top-transparent form-control">
+                                    <input type="text" placeholder="E-mail" class="form-control" id="email" name="email">
+                                    <input type="text" placeholder="Telefon (opcjonalnie)" class="border-top-transparent form-control" id="phone" name="phone">
                                 </div>
                             </div>
                             <div class="form-row">
-                                <textarea rows="8" name="message" placeholder="Wiadomość"
-                                          class="border-top-transparent form-control"></textarea>
+                                <textarea rows="8" name="message" placeholder="Wiadomość" class="border-top-transparent form-control" id="message" name="message"></textarea>
                             </div>
                             {{--<div class="form-row m-t-5px">--}}
                             {{--<div class="form-check">--}}

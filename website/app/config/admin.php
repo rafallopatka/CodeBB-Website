@@ -1,8 +1,6 @@
 <?php
 
 Return [
-   
-   'email' => 'ewelina210891@gmail.com',
+   'email' => 'kontakt@codebb.pl',
    'name' => 'CodeBB',
-    
 ];
