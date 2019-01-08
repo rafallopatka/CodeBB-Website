@@ -44,7 +44,7 @@
                                     Porozmawiajmy o programowaniu
                                 </h3>
                                 <div class="page-scroll">
-                                <a href="#meetings" class="join-btn animate-delay btn-brd-white" data-animation="animated fadeInUp">Dołącz</a>
+                                <a href="#start" class="join-btn animate-delay btn-brd-white" data-animation="animated fadeInUp">Zobacz szczegóły</a>
                                 </div>
                             </div>
                         </div>

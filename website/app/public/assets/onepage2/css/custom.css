@@ -1,12 +1,40 @@
-.page-header .navbar{
-    background: rgba(0, 0, 0, 0.2);
-}
-.text-transform-none{
-    text-transform: none!important;
-}
-
 .m-t-5px{
     margin-top: 5px;
+}
+
+a.white-link {
+  color: #FFF;
+}
+
+a.white-link:hover {
+  color: #FFFFFF;
+}
+
+a.accent-link {
+  color: #d15d5d;
+}
+
+a.accent-link:hover {
+  color: #d15d5d;
+}
+
+.page-header .navbar-brand {
+  height: auto;
+  max-height: 100%;
+}
+.page-header .navbar-brand img {
+  width: auto;
+}
+.text-transform-none{
+  text-transform: none!important;
+}
+
+.margin-top-70 {
+  margin-top: 70px;
+}
+
+.features-bg {
+  padding: 100px 0 60px 0;
 }
 
 .accent--checkbox {
@@ -71,7 +99,7 @@
 }
 
 #contact .logo{
-    width: 150px;
+    width: 100px;
 }
 
 .cookies-info{
@@ -100,8 +128,8 @@
 }
 
 .page-on-scroll .cookies-info{
-  width: 52.5px;
-  height: 52.5px;
+  width: 42px;
+  height: 42px;
   overflow: hidden;
 }
 
@@ -143,23 +171,6 @@
   margin-right: 10px;
   margin-bottom: 10px;
 }
-
-a.white-link {
-  color: #FFF;
-}
-
-a.white-link:hover {
-  color: #FFFFFF;
-}
-
-a.accent-link {
-  color: #d15d5d;
-}
-
-a.accent-link:hover {
-  color: #d15d5d;
-}
-
 #start .logo{
   width: 300px;
 }
@@ -173,10 +184,6 @@ a.accent-link:hover {
   color: rgba(255, 255, 255, 0.99);
   text-shadow: 0px 0px 10px rgba(0,0,0,0.5);
   font-size: 35px;
-}
-
-#intro .join-btn{
-  text-shadow: 0px 0px 10px rgba(0,0,0,0.5);
 }
 
 #meetings .date{
@@ -214,4 +221,100 @@ a.accent-link:hover {
 
 .subscribe h1{
   color: #25303a!Important;
+}
+
+#intro {
+  height: 100vh;
+}
+
+.center-block-body {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.carousel,
+.carousel-inner
+{
+  height: 100%;
+}
+
+#intro .motto {
+  font-size: 45px;
+}
+
+.footer-copyright {
+  padding: 15px 0;
+}
+.footer-copyright h3 {
+  margin-bottom: 0px;
+}
+
+.go2top {
+  color: #d15d5d;
+  width: 42px;
+  height: 42px;
+  right: 15px;
+  bottom: 13px;
+  font-size: 22px;
+  border: solid 2px #d15d5d;
+}
+
+.go2top:hover, .go2top:focus:hover {
+  background: transparent;
+  opacity: 0.8;
+  color: #d15d5d;
+  border: solid 2px #d15d5d;
+}
+
+.page-on-scroll .cookies-info {
+  opacity: 1;
+  padding: 0;
+  bottom: 13px;
+  left: 15px;
+  background: transparent;
+}
+
+.page-on-scroll .cookies-info .cookie-btn {
+  width: 42px;
+  margin: 0;
+}
+
+.page-on-scroll .cookies-info p,
+.page-on-scroll .cookies-info strong {
+  display: none;
+}
+
+.page-on-scroll .cookies-info:focus,
+.page-on-scroll .cookies-info:hover {
+  background: #314252;
+  padding: 10px;
+}
+
+.page-on-scroll .cookies-info:focus .cookie-btn,
+.page-on-scroll .cookies-info:hover .cookie-btn {
+  padding: 5px;
+}
+
+.page-on-scroll .cookies-info:hover p {
+  display: block;
+}
+.page-on-scroll .cookies-info:hover strong {
+  display: inline;
+}
+
+.page-scroll {
+  text-align: center;
+}
+
+.btn-brd-white {
+  font-size: 20px;
+}
+.btn-brd-gray {
+  background-color: #2c3a46;
+  border-color: #2c3a46 !important;
+}
+.btn-brd-gray:hover,
+.btn-brd-white:hover{
+  background-color: #d15d5d;
+  border-color: #d15d5d !important;
+  color: #fff;
 }

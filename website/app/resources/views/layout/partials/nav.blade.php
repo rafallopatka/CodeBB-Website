@@ -22,7 +22,10 @@
                 <div class="collapse navbar-collapse navbar-responsive-collapse">
                     <ul class="nav navbar-nav">
                         <li class="page-scroll active">
-                            <a href="#start">Start</a>
+                            <a href="#intro">Start</a>
+                        </li>
+                        <li class="page-scroll active">
+                            <a href="#start">Inicjatywa</a>
                         </li>
                         <li class="page-scroll">
                             <a href="#meetings">Najbliższe spotkanie</a>

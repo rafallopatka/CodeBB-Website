@@ -8,7 +8,7 @@
                     <div class="container">
                         <div class="heading-light">
                             <h2>
-                                <img class="logo" src="assets/onepage2/img/logo_default.png" alt="CodeBB"/>
+                                <img class="logo" src="assets/onepage2/img/logo_default_big.png" alt="CodeBB"/>
                             </h2>
                             <p>Porozmawiajmy o programowaniu</p>
                         </div>
@@ -41,8 +41,12 @@
                             <h3 class="date">30.01.2019 17:00</h3>
                             <h4 class="place"><a class="accent-link" href="https://www.facebook.com/pg/klubokawiarnia.aquarium/about/?ref=page_internal" target="blank">Klubokawiarnia Aquarium - Galeria Bielska BWA: ul. 3 Maja 11 (na piętrze), 43-300 Bielsko-Biała</a></h4>
                         </div>
- 
-                        <div class="row md-margin-bottom-70">
+
+                        <div class="page-scroll">
+                            <a href="#" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
+                        </div>
+
+                        <div class="row md-margin-bottom-70 margin-top-70">
                                 <div class="col-md-12 md-margin-bottom-70 text-center">
                                             <h2>Agenda</h2><br/>
                                 </div>
@@ -57,10 +61,12 @@
                             <div class="col-md-7">
                                 <div class="features">
                                     <div class="features-in description">
-                                        <h3>Docker fajny jest a tytuł nie wiem jaki</h3>
+                                        <h3>Jak nauczyć sie programować w 10 lat?</h3>
                                         <h4>Adam Górny</h4>
 
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                        <p>
+                                            Javascript w 60 dni? Java w 21 dni, a może C# w 7 dni? O tym jak szybko zdobyć cenne kwalifikacje. O tym jak nie zapomnieć, że prawdziwe umiejętności specjalistyczne kształtują się przez lata. O tym jak nie zwariować w dynamicznie rozwijającym się świecie IT opowie programista z firmy Euvic.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
@@ -75,11 +81,11 @@
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-                                            <h3>ReactiveX - tu będzie coś jeszcze</h3>
+                                            <h3>Rzecz o programowaniu funkcyjnym i reaktywnym z ReactiveX</h3>
                                             <h4>Rafał Łopatka</h4>
     
                                             <p>
-                                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur,    
+                                                RxJs, RxNet, RxJava czy RxSwift - Reactive Extensions są dziś powszechne niemal w każdym wiodącym języku programowania, podobnie jak i wyzwania z którymi mogą Ci pomóc. W trakcie tej prezentacji dowiesz się jak z użyciem reaktywnych strumieni, sprostać asynchroniczności, wielowątkowości, obsłudze błędów i zarządzaniu stanem aplikacji.
                                             </p>
     
                                     </div>
@@ -89,25 +95,6 @@
                         {{-- <div class="row md-margin-bottom-70 text-center">
                               <a href="https://meetup.com" target="blank" class="btn-brd-danger">Zarejestruj się</a>
                             </div> --}}
-                    </div>
-                </div>
-                <div class="container subscribe md-margin-bottom-30">
-                    <div class=" subscribe-wrap md-margin-bottom-70 ">
-                        <div class="subscribe-body subscribe-desc md-margin-bottom-30">
-                            <h1>Zapisz się na spotkanie</h1>
-                        </div>
-                        <div class="subscribe-body">
-                            <form class="form-wrap input-field">
-                                <div class="form-wrap-group">
-                                    <input type="name" class="form-control" id="name" placeholder="Name">
-                                </div>
-                                <div class="form-wrap-group border-left-transparent">
-                                    <input type="email" class="form-control" id="email" placeholder="Your Email">
-                                </div>
-                                <div class="form-wrap-group">
-                                    <button type="submit" class="btn-danger btn-md btn-block">Zarejestruj się</button>
-                                </div>
-                            </form>
                     </div>
                 </div>
             </div>
