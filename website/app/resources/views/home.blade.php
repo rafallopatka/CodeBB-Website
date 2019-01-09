@@ -81,7 +81,7 @@
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-                                            <h3>Rzecz o programowaniu funkcyjnym i reaktywnym z ReactiveX</h3>
+                                            <h3>Rzecz o programowaniu reaktywnym z ReactiveX</h3>
                                             <h4>Rafał Łopatka</h4>
     
                                             <p>
