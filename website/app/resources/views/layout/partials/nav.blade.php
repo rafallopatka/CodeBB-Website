@@ -29,7 +29,7 @@
                         </li>
                         <li class="page-scroll">
                             <a href="#meetings">Najbliższe spotkanie</a>
-                        </li>                 --}}
+                        </li>
                         <li class="page-scroll">
                             <a href="#contact">Kontakt</a>
                         </li>
