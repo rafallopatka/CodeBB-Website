@@ -1,0 +1,12 @@
+/.htaccess
+*.log
+
+### PhpStorm ###
+.idea/
+
+
+### NetBeans ###
+/nbproject/
+
+### IIS ###
+web.config
