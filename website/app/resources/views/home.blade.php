@@ -43,7 +43,7 @@
                         </div>
 
                         <div class="page-scroll">
-                            <a href="#" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
+                            <a href="https://www.meetup.com/Bielsko-Biala-CodeBB" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
                         </div>
 
                         <div class="row md-margin-bottom-70 margin-top-70">
