@@ -56,13 +56,15 @@
             <h3>
                 <img class="logo" src="assets/onepage2/img/logo_default.png" alt="CodeBB"/>
             </h3>
-            {{--<ul class="copyright-socials">--}}
+            <br/>
+            <ul class="copyright-socials">
             {{--<li><a href="#"><i class="fa fa-twitter"></i></a></li>--}}
-            {{--<li><a href="#"><i class="fa fa-facebook"></i></a></li>--}}
-            {{--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>--}}
+            <li><a href="https://www.facebook.com/codebbpl/"><i class="fa fa-facebook"></i></a></li>
+            {{-- <li><a href="https://www.meetup.com/Bielsko-Biala-CodeBB/"><i class="fa fa-meetup"></i></a></li> --}}
+            <li><a href="https://github.com/CodeBBpl"><i class="fa fa-github"></i></a></li>
             {{--<li><a href="#"><i class="fa fa-pinterest"></i></a></li>--}}
             {{--<li><a href="#"><i class="fa fa-linkedin"></i></a></li> --}}
-            {{--</ul>--}}
+            </ul>
         </div>
     </div>
 </section>
