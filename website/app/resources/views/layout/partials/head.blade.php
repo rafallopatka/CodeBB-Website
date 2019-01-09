@@ -5,15 +5,24 @@
 <meta content="" name="description"/>
 <meta content="" name="author"/>
 
-<link href='https://fonts.googleapis.com/css?family=Hind:400,500,300,600,700' rel='stylesheet' type='text/css'>
-<link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-<link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/>
-<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+
+<link rel="preload"  href='https://fonts.googleapis.com/css?family=Hind:400,500,300,600,700' as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href='https://fonts.googleapis.com/css?family=Hind:400,500,300,600,700' rel='stylesheet' type='text/css'></noscript>
+
+<link rel="preload" href="assets/plugins/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+<noscript><link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/></noscript>
+
+<link rel="preload"  href="assets/plugins/simple-line-icons/simple-line-icons.min.css" onload="this.onload=null;this.rel='stylesheet'"/>
+<noscript><link href="assets/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css"/></noscript>
+
 
 <link href="assets/pages/css/animate.css" rel="stylesheet">
 <link href="assets/plugins/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
-<link href="assets/plugins/cubeportfolio/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet">
 
+<link  rel="preload"  href="assets/plugins/cubeportfolio/cubeportfolio/css/cubeportfolio.min.css" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="assets/plugins/cubeportfolio/cubeportfolio/css/cubeportfolio.min.css" rel="stylesheet"></noscript>
+
+<link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="assets/onepage2/css/layout.css" rel="stylesheet" type="text/css"/>
 <link href="assets/onepage2/css/custom.css" rel="stylesheet" type="text/css"/>
 
