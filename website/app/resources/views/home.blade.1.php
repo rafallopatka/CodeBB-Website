@@ -38,7 +38,7 @@
                     <div class="container">
                         <div class="heading">
                             <h2><strong>Najbliższe</strong> spotkanie</h2>
-                            <h3 class="date">11.03.2019 17:30</h3>
+                            <h3 class="date">30.01.2019 17:00</h3>
                             <h4 class="place"><a class="accent-link" href="https://www.facebook.com/pg/klubokawiarnia.aquarium/about/?ref=page_internal" target="blank">Klubokawiarnia Aquarium - Galeria Bielska BWA: ul. 3 Maja 11 (na piętrze), 43-300 Bielsko-Biała</a></h4>
                         </div>
 
@@ -55,16 +55,17 @@
                             <div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/02/vertx.jpg" alt="">
+                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/01/programming-min.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-7">
                                 <div class="features">
                                     <div class="features-in description">
-                                        <h3>Budowanie reaktywnej aplikacji z wykorzystaniem Vert.x</h3>
-                                        <h4>Bartosz Malinowski.</h4>
+                                        <h3>Jak nauczyć sie programować w 10 lat?</h3>
+                                        <h4>Adam Górny</h4>
+
                                         <p>
-                                            Obecnie wymagania stawiane aplikacjom, wymuszają na twórcach oprogramowania szukanie i korzystanie z rozwiązań pozwalających na zwiększenie dostępności, responsywności i skalowalności tworzonych systemów. Prezentacja ta poświęcona zostanie bibliotece Vert.x – lekkiemu i elastycznemu rozwiązaniu ułatwiającym tworzenie szybkich, wydajnych - reaktywnych systemów.
+                                            Javascript w 60 dni? Java w 21 dni, a może C# w 7 dni? O tym jak szybko zdobyć cenne kwalifikacje. O tym jak nie zapomnieć, że prawdziwe umiejętności specjalistyczne kształtują się przez lata. O tym jak nie zwariować w dynamicznie rozwijającym się świecie IT opowie programista z firmy Euvic.
                                         </p>
                                     </div>
                                 </div>
@@ -74,17 +75,18 @@
                                 <div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/02/hexagon.jpg" alt="">
+                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/01/rxlogo-min.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-                                            <h3>Architektura heksagonalna</h3>
-                                            <h4>Mateusz Winnicki</h4>
+                                            <h3>Rzecz o programowaniu reaktywnym z ReactiveX</h3>
+                                            <h4>Rafał Łopatka</h4>
                                             <p>
-                                                Domena, częste zmiany, testowanie – każdy z nas w swoich projektach zmaga się z rozrastaniem kodu, jego powiązań i zależności. W walce z chaosem pomagają różne wzorce, a architektura heksagonalna jest jednym z nich. Czyli jak stworzyć kod, gdzie wymienić możesz wszystko, a testy piszą się same i bez bólu.
+                                                RxJs, RxNet, RxJava czy RxSwift - Reactive Extensions są dziś powszechne niemal w każdym wiodącym języku programowania, podobnie jak i wyzwania z którymi mogą Ci pomóc. W trakcie tej prezentacji dowiesz się jak z użyciem reaktywnych strumieni, sprostać asynchroniczności, wielowątkowości, obsłudze błędów i zarządzaniu stanem aplikacji.
                                             </p>
+    
                                     </div>
                                 </div>
                             </div>
