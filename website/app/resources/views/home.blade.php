@@ -38,7 +38,7 @@
                     <div class="container">
                         <div class="heading">
                             <h2><strong>Najbliższe</strong> spotkanie</h2>
-                            <h3 class="date">11.03.2019 17:30</h3>
+                            <h3 class="date">24.04.2019 17:30</h3>
                             <h4 class="place"><a class="accent-link" href="https://www.facebook.com/pg/klubokawiarnia.aquarium/about/?ref=page_internal" target="blank">Klubokawiarnia Aquarium - Galeria Bielska BWA: ul. 3 Maja 11 (na piętrze), 43-300 Bielsko-Biała</a></h4>
                         </div>
 
@@ -48,43 +48,40 @@
 
                         <div class="row md-margin-bottom-70 margin-top-70">
                                 <div class="col-md-12 md-margin-bottom-70 text-center">
-                                            <h2>Agenda</h2><br/>
+                                    <h2>Agenda</h2><br/>
                                 </div>
                             </div><!-- //end row -->
-                        <div class="row margin-bottom-30">
-                            <div class="col-md-1"></div>
-                            <div class="col-md-3">
-                                <div class="features">
-                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/02/vertx.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-7">
-                                <div class="features">
-                                    <div class="features-in description">
-                                        <h3>Budowanie reaktywnej aplikacji z wykorzystaniem Vert.x</h3>
-                                        <h4>Bartosz Malinowski.</h4>
-                                        <p>
-                                            Obecnie wymagania stawiane aplikacjom, wymuszają na twórcach oprogramowania szukanie i korzystanie z rozwiązań pozwalających na zwiększenie dostępności, responsywności i skalowalności tworzonych systemów. Prezentacja ta poświęcona zostanie bibliotece Vert.x – lekkiemu i elastycznemu rozwiązaniu ułatwiającym tworzenie szybkich, wydajnych - reaktywnych systemów.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row margin-bottom-70">
+                            <div class="row margin-bottom-70">
                                 <div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img class="img-thumbnail rounded float-left" src="assets/meetings/02/hexagon.jpg" alt="">
+                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/03/rxlogo-min.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-                                            <h3>Architektura heksagonalna</h3>
-                                            <h4>Mateusz Winnicki</h4>
+                                            <h3>Rzecz o błędach, zmianach i strumieniach</h3>
+                                            <h4>Rafał Łopatka</h4>
                                             <p>
-                                                Domena, częste zmiany, testowanie – każdy z nas w swoich projektach zmaga się z rozrastaniem kodu, jego powiązań i zależności. W walce z chaosem pomagają różne wzorce, a architektura heksagonalna jest jednym z nich. Czyli jak stworzyć kod, gdzie wymienić możesz wszystko, a testy piszą się same i bez bólu.
-                                            </p>
+                                                    Rosnące wymagania, zmiany, mnogość sposobów interakcji z aplikacjami i błędy, rodzą nieustannie nowe wyzwania z którymi musimy jako programiści sobie radzić.  
+
+                                                    <br/> <br/>
+                                                    W trakcie tej prezentacji dowiesz się, jak strumienie i programowanie reaktywne, mogą pomóc w ogarnięciu chaosu zdarzeń, poczynań użytkownika, błędów, zaspokajając wizję biznesu nie poświęcając jakości kodu. 
+                                                    
+
+                                                   <br/> <br/>
+                                                    Konkretnie dowiesz się: 
+                                            <ul>
+                                                <li>Jak zachowują się operatory RX gdy coś pójdzie nie tak</li>
+                                                <li>Jak obsługiwać błędy strumieni </li>
+                                                <li>Jak zaaplikować strumienie do klasycznych rozwiązań architektonicznych </li>
+                                                <li>Jak obsługiwać asynchroniczne zmiany stanu bez REDUXa ;) </li>
+                                                <li>Jak zaimplementować reaktywne komponenty </li>
+                                                <li>Jak połączyć to wszystko w całość </li>
+                                            </ul>
+                                        </p>
+
                                     </div>
                                 </div>
                             </div>
