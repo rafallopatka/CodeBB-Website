@@ -38,55 +38,50 @@
                     <div class="container">
                         <div class="heading">
                             <h2><strong>Najbliższe</strong> spotkanie</h2>
-                            <h3 class="date">15.07.2019 17:30</h3>
+                            <h3 class="date">24.04.2019 17:30</h3>
                             <h4 class="place"><a class="accent-link" href="https://www.facebook.com/pg/klubokawiarnia.aquarium/about/?ref=page_internal" target="blank">Klubokawiarnia Aquarium - Galeria Bielska BWA: ul. 3 Maja 11 (na piętrze), 43-300 Bielsko-Biała</a></h4>
                         </div>
 
                         <div class="page-scroll">
-                            <a href="https://www.meetup.com/Bielsko-Biala-CodeBB/events/262587945/" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
+                            <a href="https://www.meetup.com/Bielsko-Biala-CodeBB/events/260504651/" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
                         </div>
 
                         <div class="row md-margin-bottom-70 margin-top-70">
-							<div class="col-md-12 md-margin-bottom-70 text-center">
-								<h2>Agenda</h2><br/>
-							</div>
-						</div><!-- //end row -->
-						
-						<div class="row margin-bottom-70">
-							<div class="col-md-1"></div>
+                                <div class="col-md-12 md-margin-bottom-70 text-center">
+                                    <h2>Agenda</h2><br/>
+                                </div>
+                            </div><!-- //end row -->
+                            <div class="row margin-bottom-70">
+                                <div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/04/redis-site-logo.png" alt="">
+                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/03/rxlogo-min.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-										<h3>Redis Cache</h3>
-										<h4>Marcin Rzeszowski </h4>
-										<p>
-                                            Czym jest Redis? Jak go zainstalować? Jak zacząć? Czy warto instalować własny serwer, czy lepiej skorzystać z rozwiązań typu SaaS? Podczas prezentacji Marcin Rzeszowski postara się odpowiedzieć na każde z tych pytań, a także jak efektywnie używać Redis Cache z wykorzystaniem platformy .NET Core. 
-										</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-						
-						<div class="row margin-bottom-70">
-							<div class="col-md-1"></div>
-                            <div class="col-md-3">
-                                <div class="features">
-                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/04/androidai-sitelogo.png" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="features">
-                                    <div class="features-in description">
-										<h3>Wykorzystanie machine learningu na platformach mobilnych </h3>
-										<h4>Wojciech Warwas i Andrzej Nowak </h4>
-										<p>
-                                            W trakcie tej prelekcji zostanie zaprezentowane wykorzystanie machine learningu w aplikacjach biznesowych. Zaczynając od wskazania przykładowego frameworku przez wykorzystanie go w kilku przykładowych zadaniach, aż do prezentacji wyników. Rezultatem będzie aplikacja wykorzystująca mechanizmy, których nie powstydziłoby się samo Google! 
-										</p>
+                                            <h3>Rzecz o błędach, zmianach i strumieniach</h3>
+                                            <h4>Rafał Łopatka</h4>
+                                            <p>
+                                                    Rosnące wymagania, zmiany, mnogość sposobów interakcji z aplikacjami i błędy, rodzą nieustannie nowe wyzwania z którymi musimy jako programiści sobie radzić.  
+
+                                                    <br/> <br/>
+                                                    W trakcie tej prezentacji dowiesz się, jak strumienie i programowanie reaktywne, mogą pomóc w ogarnięciu chaosu zdarzeń, poczynań użytkownika, błędów, zaspokajając wizję biznesu nie poświęcając jakości kodu. 
+                                                    
+
+                                                   <br/> <br/>
+                                                    Konkretnie dowiesz się: 
+                                            <ul>
+                                                <li>Jak zachowują się operatory RX gdy coś pójdzie nie tak</li>
+                                                <li>Jak obsługiwać błędy strumieni </li>
+                                                <li>Jak zaaplikować strumienie do klasycznych rozwiązań architektonicznych </li>
+                                                <li>Jak obsługiwać asynchroniczne zmiany stanu bez REDUXa ;) </li>
+                                                <li>Jak zaimplementować reaktywne komponenty </li>
+                                                <li>Jak połączyć to wszystko w całość </li>
+                                            </ul>
+                                        </p>
+
                                     </div>
                                 </div>
                             </div>
