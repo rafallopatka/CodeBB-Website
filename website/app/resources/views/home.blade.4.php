@@ -37,15 +37,13 @@
                 <div class="features-bg">
                     <div class="container">
                         <div class="heading">
-                            <h2>Najbliższy meetup</h2>
-                            <h1><strong>Ten o zarabianiu, rozdawaniu i Flutterze</strong></h1>
-
-                            <h3 class="date">09.09.2019 17:30</h3>
+                            <h2><strong>Najbliższe</strong> spotkanie</h2>
+                            <h3 class="date">15.07.2019 17:30</h3>
                             <h4 class="place"><a class="accent-link" href="https://www.facebook.com/pg/klubokawiarnia.aquarium/about/?ref=page_internal" target="blank">Klubokawiarnia Aquarium - Galeria Bielska BWA: ul. 3 Maja 11 (na piętrze), 43-300 Bielsko-Biała</a></h4>
                         </div>
 
                         <div class="page-scroll">
-                            <a href="https://www.meetup.com/Bielsko-Biala-CodeBB/events/263677769/" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
+                            <a href="https://www.meetup.com/Bielsko-Biala-CodeBB/events/262587945/" class="join-btn animate-delay btn-brd-white btn-brd-gray" data-animation="animated fadeInUp">Zapisz się na spotkanie</a>
                         </div>
 
                         <div class="row md-margin-bottom-70 margin-top-70">
@@ -58,16 +56,17 @@
 							<div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/05/opensource.png" alt="">
+                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/04/redis-site-logo.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-										<h3>Za darmo się opłaca, czyli o darmowym oprogramowaniu</h3>
-										<h4>Mateusz Godzic</h4>
+										<h3>Redis Cache</h3>
+										<h4>Marcin Rzeszowski </h4>
 										<p>
-                                            Prezentacja będzie się skupiać na modelach biznesowych których metodyką jest udostępnianie usług za darmo, pokaże wam w jaki sposób te firmy zarabiają przy jednoczesnym zadowoleniu sowich użytkowników.										</p>
+                                            Czym jest Redis? Jak go zainstalować? Jak zacząć? Czy warto instalować własny serwer, czy lepiej skorzystać z rozwiązań typu SaaS? Podczas prezentacji Marcin Rzeszowski postara się odpowiedzieć na każde z tych pytań, a także jak efektywnie używać Redis Cache z wykorzystaniem platformy .NET Core. 
+										</p>
                                     </div>
                                 </div>
                             </div>
@@ -77,16 +76,17 @@
 							<div class="col-md-1"></div>
                             <div class="col-md-3">
                                 <div class="features">
-                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/05/flutter.png" alt="">
+                                    <img style="margin-top: 20px" class="img-thumbnail rounded float-left" src="assets/meetings/04/androidai-sitelogo.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="features">
                                     <div class="features-in description">
-										<h3>Flutter - Sky* is the limit</h3>
-										<h4>Marcin Jasiński oraz Marcin Starmach</h4>
+										<h3>Wykorzystanie machine learningu na platformach mobilnych </h3>
+										<h4>Wojciech Warwas i Andrzej Nowak </h4>
 										<p>
-                                            Brakuje Ci gotówki? Nie masz od pierwszego do pierwszego? Myślisz o programowaniu? Przyjdź na nasz wykład pod kierownictwem utalentowanych programistów Marcina Jasińskiego oraz Marcina Starmacha z Iteo. W krótki i skondensowany sposób pokażą, jak zacząć swoją przygodę z Flutterem - nowym frameworkiem w świecie aplikacji mobilnych. Poznana wiedza otworzy Ci nowe ścieżki kariery, o których nawet nie marzyłeś!										</p>
+                                            W trakcie tej prelekcji zostanie zaprezentowane wykorzystanie machine learningu w aplikacjach biznesowych. Zaczynając od wskazania przykładowego frameworku przez wykorzystanie go w kilku przykładowych zadaniach, aż do prezentacji wyników. Rezultatem będzie aplikacja wykorzystująca mechanizmy, których nie powstydziłoby się samo Google! 
+										</p>
                                     </div>
                                 </div>
                             </div>
